@@ -1,0 +1,2552 @@
+[
+  {
+    "id": "08LD003",
+    "name": "ADAMS LAKE NEAR SQUILAX",
+    "province": "BC"
+  },
+  {
+    "id": "08LD001",
+    "name": "ADAMS RIVER NEAR SQUILAX",
+    "province": "BC"
+  },
+  {
+    "id": "10CD005",
+    "name": "ADSETT CREEK AT KILOMETRE 386.0 ALASKA HIGHWAY",
+    "province": "BC"
+  },
+  {
+    "id": "08AA012",
+    "name": "AISHIHIK LAKE NEAR AISHIHIK",
+    "province": "YT"
+  },
+  {
+    "id": "08AA005",
+    "name": "AISHIHIK LAKE NEAR WHITEHORSE",
+    "province": "YT"
+  },
+  {
+    "id": "08AA010",
+    "name": "AISHIHIK RIVER BELOW AISHIHIK LAKE",
+    "province": "YT"
+  },
+  {
+    "id": "07EA007",
+    "name": "AKIE RIVER NEAR THE 760 M CONTOUR",
+    "province": "BC"
+  },
+  {
+    "id": "08MH005",
+    "name": "ALOUETTE RIVER NEAR HANEY",
+    "province": "BC"
+  },
+  {
+    "id": "08AB001",
+    "name": "ALSEK RIVER ABOVE BATES RIVER",
+    "province": "YT"
+  },
+  {
+    "id": "08NJ130",
+    "name": "ANDERSON CREEK NEAR NELSON",
+    "province": "BC"
+  },
+  {
+    "id": "08DB013",
+    "name": "ANSEDAGAN CREEK NEAR NEW AIYANSH",
+    "province": "BC"
+  },
+  {
+    "id": "08NH084",
+    "name": "ARROW CREEK NEAR ERICKSON",
+    "province": "BC"
+  },
+  {
+    "id": "08NE102",
+    "name": "ARROW RESERVOIR AT FAUQUIER",
+    "province": "BC"
+  },
+  {
+    "id": "08NE104",
+    "name": "ARROW RESERVOIR AT NAKUSP",
+    "province": "BC"
+  },
+  {
+    "id": "08LF099",
+    "name": "ARROWSTONE CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HB023",
+    "name": "ASH RIVER BELOW MORAN CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NL004",
+    "name": "ASHNOLA RIVER NEAR KEREMEOS",
+    "province": "BC"
+  },
+  {
+    "id": "09AA001",
+    "name": "ATLIN LAKE AT ATLIN",
+    "province": "BC"
+  },
+  {
+    "id": "09AA006",
+    "name": "ATLIN RIVER NEAR ATLIN",
+    "province": "BC"
+  },
+  {
+    "id": "08FB006",
+    "name": "ATNARKO RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08EC003",
+    "name": "BABINE LAKE AT TOPLEY LANDING",
+    "province": "BC"
+  },
+  {
+    "id": "08EC001",
+    "name": "BABINE RIVER AT BABINE",
+    "province": "BC"
+  },
+  {
+    "id": "08EC013",
+    "name": "BABINE RIVER AT OUTLET OF NILKITKWA LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08KE016",
+    "name": "BAKER CREEK AT QUESNEL",
+    "province": "BC"
+  },
+  {
+    "id": "08LB020",
+    "name": "BARRIERE RIVER AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NE008",
+    "name": "BEATON CREEK NEAR BEATON",
+    "province": "BC"
+  },
+  {
+    "id": "07FC001",
+    "name": "BEATTON RIVER NEAR FORT ST. JOHN",
+    "province": "BC"
+  },
+  {
+    "id": "08NB021",
+    "name": "BEAVER RIVER ABOVE CUPOLA CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09DB001",
+    "name": "BEAVER RIVER BELOW MATSON CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "10BD001",
+    "name": "BEAVER RIVER BELOW WHITEFISH RIVER",
+    "province": "YT"
+  },
+  {
+    "id": "08NM232",
+    "name": "BELGO CREEK BELOW HILDA CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08FB011",
+    "name": "BELLA COOLA RIVER ABOVE HAMMER CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09AA004",
+    "name": "BENNETT LAKE AT CARCROSS",
+    "province": "YT"
+  },
+  {
+    "id": "08LC039",
+    "name": "BESSETTE CREEK ABOVE BEAVERJACK CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08LC042",
+    "name": "BESSETTE CREEK ABOVE LUMBY LAGOON OUTFALL",
+    "province": "BC"
+  },
+  {
+    "id": "08MB006",
+    "name": "BIG CREEK ABOVE GROUNDHOG CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "10AA005",
+    "name": "BIG CREEK AT KM 1084.8 ALASKA HIGHWAY",
+    "province": "YT"
+  },
+  {
+    "id": "08MB007",
+    "name": "BIG CREEK BELOW GRAVEYARD CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09AH003",
+    "name": "BIG CREEK NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "09AG001",
+    "name": "BIG SALMON RIVER NEAR CARMACKS",
+    "province": "YT"
+  },
+  {
+    "id": "08NE039",
+    "name": "BIG SHEEP CREEK NEAR ROSSLAND",
+    "province": "BC"
+  },
+  {
+    "id": "08HA016",
+    "name": "BINGS CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "10MA003",
+    "name": "BLACKSTONE RIVER NEAR CHAPMAN LAKE AIRSTRIP",
+    "province": "YT"
+  },
+  {
+    "id": "08NB012",
+    "name": "BLAEBERRY RIVER ABOVE WILLOWBANK CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08LB038",
+    "name": "BLUE RIVER NEAR BLUE RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "07FC003",
+    "name": "BLUEBERRY RIVER BELOW AITKEN CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08LF002",
+    "name": "BONAPARTE RIVER BELOW CACHE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "10MB004",
+    "name": "BONNET PLUME RIVER ABOVE GILLESPIE CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "08MC049",
+    "name": "BORLAND CREEK ABOVE VALLEY CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "10CD004",
+    "name": "BOUGIE CREEK AT KILOMETRE 368 ALASKA HIGHWAY",
+    "province": "BC"
+  },
+  {
+    "id": "08KD007",
+    "name": "BOWRON RIVER BELOW BOX CANYON",
+    "province": "BC"
+  },
+  {
+    "id": "08LA027",
+    "name": "BRIDGE CREEK BELOW DEKA CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08ME023",
+    "name": "BRIDGE RIVER (SOUTH BRANCH) BELOW BRIDGE GLACIER",
+    "province": "BC"
+  },
+  {
+    "id": "08ME028",
+    "name": "BRIDGE RIVER ABOVE DOWNTON LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08ME029",
+    "name": "BRIDGE RIVER BELOW LAJOIE DAM",
+    "province": "BC"
+  },
+  {
+    "id": "08HB025",
+    "name": "BROWNS RIVER NEAR COURTENAY",
+    "province": "BC"
+  },
+  {
+    "id": "08EE013",
+    "name": "BUCK CREEK AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08EE004",
+    "name": "BULKLEY RIVER AT QUICK",
+    "province": "BC"
+  },
+  {
+    "id": "08EE003",
+    "name": "BULKLEY RIVER NEAR HOUSTON",
+    "province": "BC"
+  },
+  {
+    "id": "08EE005",
+    "name": "BULKLEY RIVER NEAR SMITHERS",
+    "province": "BC"
+  },
+  {
+    "id": "08NG002",
+    "name": "BULL RIVER NEAR WARDNER",
+    "province": "BC"
+  },
+  {
+    "id": "08NN023",
+    "name": "BURRELL CREEK ABOVE GLOUCESTER CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HD033",
+    "name": "BUTTLE LAKE ABOVE UPPER CAMPBELL LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08NM134",
+    "name": "CAMP CREEK AT MOUTH NEAR THIRSK",
+    "province": "BC"
+  },
+  {
+    "id": "08HD024",
+    "name": "CAMPBELL RIVER AT ARGONAUT WHARF",
+    "province": "BC"
+  },
+  {
+    "id": "08HDX24",
+    "name": "CAMPBELL RIVER AT ARGONAUT WHARF (AUXILIARY GAUGE)",
+    "province": "BC"
+  },
+  {
+    "id": "08HD022",
+    "name": "CAMPBELL RIVER AT CAMPBELL RIVER LODGE",
+    "province": "BC"
+  },
+  {
+    "id": "08HDX22",
+    "name": "CAMPBELL RIVER AT CAMPBELL RIVER LODGE (AUXILIARY STATION)",
+    "province": "BC"
+  },
+  {
+    "id": "08HD003",
+    "name": "CAMPBELL RIVER NEAR CAMPBELL RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08HD035",
+    "name": "CAMPBELL RIVER NEAR CAMPBELL RIVER CABLEWAY",
+    "province": "BC"
+  },
+  {
+    "id": "08HDX35",
+    "name": "CAMPBELL RIVER NEAR CAMPBELL RIVER CABLEWAY (AUXILIARY STATION)",
+    "province": "BC"
+  },
+  {
+    "id": "08NC004",
+    "name": "CANOE RIVER BELOW KIMMEL CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08GA010",
+    "name": "CAPILANO RIVER ABOVE INTAKE",
+    "province": "BC"
+  },
+  {
+    "id": "07EF004",
+    "name": "CARBON CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HB048",
+    "name": "CARNATION CREEK AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08ME002",
+    "name": "CAYOOSH CREEK NEAR LILLOOET",
+    "province": "BC"
+  },
+  {
+    "id": "08MH166",
+    "name": "CEDAR CREEK ABOVE THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08LE112",
+    "name": "CHASE CREEK ABOVE THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08GA072",
+    "name": "CHEAKAMUS RIVER ABOVE MILLAR CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08GA043",
+    "name": "CHEAKAMUS RIVER NEAR BRACKENDALE",
+    "province": "BC"
+  },
+  {
+    "id": "08MG001",
+    "name": "CHEHALIS RIVER NEAR HARRISON MILLS",
+    "province": "BC"
+  },
+  {
+    "id": "08HA001",
+    "name": "CHEMAINUS RIVER NEAR WESTHOLME",
+    "province": "BC"
+  },
+  {
+    "id": "08MB012",
+    "name": "CHILCOTIN RIVER NEAR HANCEVILLE",
+    "province": "BC"
+  },
+  {
+    "id": "08MA002",
+    "name": "CHILKO RIVER AT OUTLET OF CHILKO LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08MA001",
+    "name": "CHILKO RIVER NEAR REDSTONE",
+    "province": "BC"
+  },
+  {
+    "id": "08MH103",
+    "name": "CHILLIWACK RIVER ABOVE SLESSE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08MH001",
+    "name": "CHILLIWACK RIVER AT VEDDER CROSSING",
+    "province": "BC"
+  },
+  {
+    "id": "07EE009",
+    "name": "CHUCHINKA CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08EG018",
+    "name": "CLARENCE CREEK NEAR ROSSWOOD",
+    "province": "BC"
+  },
+  {
+    "id": "08NM146",
+    "name": "CLARK CREEK NEAR WINFIELD",
+    "province": "BC"
+  },
+  {
+    "id": "08LA001",
+    "name": "CLEARWATER RIVER NEAR CLEARWATER STATION",
+    "province": "BC"
+  },
+  {
+    "id": "08GB013",
+    "name": "CLOWHOM RIVER NEAR CLOWHOM LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08NM248",
+    "name": "COLDSTREAM CREEK AT COLDSTREAM CREEK ROAD",
+    "province": "BC"
+  },
+  {
+    "id": "08LG010",
+    "name": "COLDWATER RIVER AT MERRITT",
+    "province": "BC"
+  },
+  {
+    "id": "08LG048",
+    "name": "COLDWATER RIVER NEAR BROOKMERE",
+    "province": "BC"
+  },
+  {
+    "id": "08NE049",
+    "name": "COLUMBIA RIVER AT BIRCHBANK",
+    "province": "BC"
+  },
+  {
+    "id": "08NB005",
+    "name": "COLUMBIA RIVER AT DONALD",
+    "province": "BC"
+  },
+  {
+    "id": "08NA002",
+    "name": "COLUMBIA RIVER AT NICHOLSON",
+    "province": "BC"
+  },
+  {
+    "id": "08HB087",
+    "name": "COMOX HARBOUR AT GOOSE SPIT",
+    "province": "BC"
+  },
+  {
+    "id": "08HB082",
+    "name": "COMOX LAKE NEAR COURTENAY",
+    "province": "BC"
+  },
+  {
+    "id": "08MF068",
+    "name": "COQUIHALLA RIVER ABOVE ALEXANDER CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08MF062",
+    "name": "COQUIHALLA RIVER BELOW NEEDLE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08MH149",
+    "name": "COQUITLAM LAKE FOREBAY",
+    "province": "BC"
+  },
+  {
+    "id": "08MH141",
+    "name": "COQUITLAM RIVER ABOVE COQUITLAM LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08MH002",
+    "name": "COQUITLAM RIVER AT PORT COQUITLAM",
+    "province": "BC"
+  },
+  {
+    "id": "08LE077",
+    "name": "CORNING CREEK NEAR SQUILAX",
+    "province": "BC"
+  },
+  {
+    "id": "08HA072",
+    "name": "COTTONWOOD CREEK HEADWATERS",
+    "province": "BC"
+  },
+  {
+    "id": "10AC005",
+    "name": "COTTONWOOD RIVER ABOVE BASS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HB083",
+    "name": "COURTENAY RIVER AT 5TH AVENUE BRIDGE",
+    "province": "BC"
+  },
+  {
+    "id": "08HA009",
+    "name": "COWICHAN LAKE NEAR LAKE COWICHAN",
+    "province": "BC"
+  },
+  {
+    "id": "08HA002",
+    "name": "COWICHAN RIVER AT LAKE COWICHAN",
+    "province": "BC"
+  },
+  {
+    "id": "08HA011",
+    "name": "COWICHAN RIVER NEAR DUNCAN",
+    "province": "BC"
+  },
+  {
+    "id": "08NE123",
+    "name": "CRANBERRY CREEK ABOVE B.C. HYDRO INTAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08HC006",
+    "name": "CREST LAKE NEAR HIGHWAY 28",
+    "province": "BC"
+  },
+  {
+    "id": "08LF007",
+    "name": "CRISS CREEK NEAR SAVONA",
+    "province": "BC"
+  },
+  {
+    "id": "08HB074",
+    "name": "CRUICKSHANK RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08LF100",
+    "name": "DAIRY CREEK ABOVE TSOTIN LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08MD035",
+    "name": "DASH CREEK ABOVE CHURN CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08LF027",
+    "name": "DEADMAN RIVER ABOVE CRISS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08FC003",
+    "name": "DEAN RIVER BELOW TANSWANKET CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NE087",
+    "name": "DEER CREEK AT DEER PARK",
+    "province": "BC"
+  },
+  {
+    "id": "08NM242",
+    "name": "DENNIS CREEK NEAR 1780 METRE CONTOUR",
+    "province": "BC"
+  },
+  {
+    "id": "08AA003",
+    "name": "DEZADEASH RIVER AT HAINES JUNCTION",
+    "province": "YT"
+  },
+  {
+    "id": "07FB004",
+    "name": "DICKEBUSCH CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08KA001",
+    "name": "DORE RIVER NEAR MCBRIDE",
+    "province": "BC"
+  },
+  {
+    "id": "08LG069",
+    "name": "DOUGLAS LAKE AT SPAXOMIN",
+    "province": "BC"
+  },
+  {
+    "id": "08HB075",
+    "name": "DOVE CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08JD006",
+    "name": "DRIFTWOOD RIVER ABOVE KASTBERG CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09AH005",
+    "name": "DRURY CREEK AT KM 469 ROBERT CAMPBELL HIGHWAY",
+    "province": "YT"
+  },
+  {
+    "id": "08NH016",
+    "name": "DUCK CREEK NEAR WYNNDEL",
+    "province": "BC"
+  },
+  {
+    "id": "08NJ026",
+    "name": "DUHAMEL CREEK ABOVE DIVERSIONS",
+    "province": "BC"
+  },
+  {
+    "id": "09CA004",
+    "name": "DUKE RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "08NH127",
+    "name": "DUNCAN RESERVOIR AT DUNCAN DAM",
+    "province": "BC"
+  },
+  {
+    "id": "08NH119",
+    "name": "DUNCAN RIVER BELOW B.B. CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NH118",
+    "name": "DUNCAN RIVER BELOW LARDEAU RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "09FB002",
+    "name": "EAGLE RIVER AT DEMPSTER HIGHWAY BRIDGE",
+    "province": "YT"
+  },
+  {
+    "id": "08LE024",
+    "name": "EAGLE RIVER NEAR MALAKWA",
+    "province": "BC"
+  },
+  {
+    "id": "08LE108",
+    "name": "EAST CANOE CREEK ABOVE DAM",
+    "province": "BC"
+  },
+  {
+    "id": "08GA071",
+    "name": "ELAHO RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HD018",
+    "name": "ELK RIVER ABOVE CAMPBELL LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08NK031",
+    "name": "ELK RIVER AT ELKO DAM FOREBAY",
+    "province": "BC"
+  },
+  {
+    "id": "08NK002",
+    "name": "ELK RIVER AT FERNIE",
+    "province": "BC"
+  },
+  {
+    "id": "08NK030",
+    "name": "ELK RIVER BELOW ELKO DAM DIVERSION",
+    "province": "BC"
+  },
+  {
+    "id": "08NK016",
+    "name": "ELK RIVER NEAR NATAL",
+    "province": "BC"
+  },
+  {
+    "id": "08HB002",
+    "name": "ENGLISHMAN RIVER NEAR PARKSVILLE",
+    "province": "BC"
+  },
+  {
+    "id": "08HF015",
+    "name": "EVE RIVER BELOW KUNNUM CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NL076",
+    "name": "EWART CREEK NEAR CATHEDRAL PARK",
+    "province": "BC"
+  },
+  {
+    "id": "08EG012",
+    "name": "EXCHAMSIKS RIVER NEAR TERRACE",
+    "province": "BC"
+  },
+  {
+    "id": "07EA005",
+    "name": "FINLAY RIVER ABOVE AKIE RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08MH153",
+    "name": "FISHTRAP CREEK AT INTERNATIONAL BOUNDARY",
+    "province": "BC"
+  },
+  {
+    "id": "08LB024",
+    "name": "FISHTRAP CREEK NEAR MCLURE",
+    "province": "BC"
+  },
+  {
+    "id": "08MG026",
+    "name": "FITZSIMMONS CREEK BELOW BLACKCOMB CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "07FB009",
+    "name": "FLATBED CREEK AT KILOMETRE 110 HERITAGE HIGHWAY",
+    "province": "BC"
+  },
+  {
+    "id": "10CA001",
+    "name": "FONTAS RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NK018",
+    "name": "FORDING RIVER AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "10AB001",
+    "name": "FRANCES RIVER NEAR WATSON LAKE",
+    "province": "YT"
+  },
+  {
+    "id": "08MF074",
+    "name": "FRASER RIVER ABOVE HERRLING ISLAND",
+    "province": "BC"
+  },
+  {
+    "id": "08MF076",
+    "name": "FRASER RIVER ABOVE HUNTER CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08MF040",
+    "name": "FRASER RIVER ABOVE TEXAS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08MD013",
+    "name": "FRASER RIVER AT BIG BAR CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08MH053",
+    "name": "FRASER RIVER AT DEAS ISLAND TUNNEL",
+    "province": "BC"
+  },
+  {
+    "id": "08KA004",
+    "name": "FRASER RIVER AT HANSARD",
+    "province": "BC"
+  },
+  {
+    "id": "08MF073",
+    "name": "FRASER RIVER AT HARRISON MILLS",
+    "province": "BC"
+  },
+  {
+    "id": "08MF005",
+    "name": "FRASER RIVER AT HOPE",
+    "province": "BC"
+  },
+  {
+    "id": "08MF072",
+    "name": "FRASER RIVER AT LAIDLAW",
+    "province": "BC"
+  },
+  {
+    "id": "08MF075",
+    "name": "FRASER RIVER AT LOWER KENT",
+    "province": "BC"
+  },
+  {
+    "id": "08KA005",
+    "name": "FRASER RIVER AT MCBRIDE",
+    "province": "BC"
+  },
+  {
+    "id": "08MH024",
+    "name": "FRASER RIVER AT MISSION",
+    "province": "BC"
+  },
+  {
+    "id": "08MHX24",
+    "name": "FRASER RIVER AT MISSION (AUXILIARY GAUGE)",
+    "province": "BC"
+  },
+  {
+    "id": "08MH126",
+    "name": "FRASER RIVER AT PORT MANN PUMPING STATION",
+    "province": "BC"
+  },
+  {
+    "id": "08KA007",
+    "name": "FRASER RIVER AT RED PASS",
+    "province": "BC"
+  },
+  {
+    "id": "08KB001",
+    "name": "FRASER RIVER AT SHELLEY",
+    "province": "BC"
+  },
+  {
+    "id": "08KE018",
+    "name": "FRASER RIVER AT SOUTH FORT GEORGE",
+    "province": "BC"
+  },
+  {
+    "id": "08MH028",
+    "name": "FRASER RIVER AT STEVESTON",
+    "province": "BC"
+  },
+  {
+    "id": "08MH044",
+    "name": "FRASER RIVER AT WHONOCK",
+    "province": "BC"
+  },
+  {
+    "id": "08MF035",
+    "name": "FRASER RIVER NEAR AGASSIZ",
+    "province": "BC"
+  },
+  {
+    "id": "08MC018",
+    "name": "FRASER RIVER NEAR MARGUERITE",
+    "province": "BC"
+  },
+  {
+    "id": "08HA068",
+    "name": "GARBAGE CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08AA009",
+    "name": "GILTANA CREEK NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "08EE008",
+    "name": "GOATHORN CREEK NEAR TELKWA",
+    "province": "BC"
+  },
+  {
+    "id": "08NB014",
+    "name": "GOLD RIVER ABOVE PALMER CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HC001",
+    "name": "GOLD RIVER BELOW UCONA RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08ND012",
+    "name": "GOLDSTREAM RIVER BELOW OLD CAMP CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "07FA005",
+    "name": "GRAHAM RIVER ABOVE COLT CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NN002",
+    "name": "GRANBY RIVER AT GRAND FORKS",
+    "province": "BC"
+  },
+  {
+    "id": "08ND021",
+    "name": "GREELEY CREEK ABOVE DIVERSION",
+    "province": "BC"
+  },
+  {
+    "id": "08LG056",
+    "name": "GUICHON CREEK ABOVE TUNKWA LAKE DIVERSION",
+    "province": "BC"
+  },
+  {
+    "id": "08LG041",
+    "name": "GUICHON CREEK AT OUTLET OF MAMIT LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "07FA003",
+    "name": "HALFWAY RIVER ABOVE GRAHAM RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "07FA006",
+    "name": "HALFWAY RIVER NEAR FARRELL CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08LB076",
+    "name": "HARPER CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HA070",
+    "name": "HARRIS CREEK NEAR LAKE COWICHAN",
+    "province": "BC"
+  },
+  {
+    "id": "08MG012",
+    "name": "HARRISON LAKE NEAR HARRISON HOT SPRINGS",
+    "province": "BC"
+  },
+  {
+    "id": "08MG014",
+    "name": "HARRISON RIVER AT HARRISON MILLS",
+    "province": "BC"
+  },
+  {
+    "id": "08MG022",
+    "name": "HARRISON RIVER BELOW MORRIS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "10MA004",
+    "name": "HART RIVER NEAR HUNGRY LAKE",
+    "province": "YT"
+  },
+  {
+    "id": "08NL050",
+    "name": "HEDLEY CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "09DA001",
+    "name": "HESS RIVER ABOVE EMERALD CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "08NE114",
+    "name": "HIDDEN CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08FF002",
+    "name": "HIRSCH CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08GD008",
+    "name": "HOMATHKO RIVER AT INLET TO TATLAYOKO LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08GD004",
+    "name": "HOMATHKO RIVER AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08OA004",
+    "name": "HONNA RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08KH010",
+    "name": "HORSEFLY RIVER ABOVE MCKINLEY CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08KH031",
+    "name": "HORSEFLY RIVER ABOVE QUESNEL LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08GB014",
+    "name": "HORSESHOE RIVER ABOVE LOIS LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08NK026",
+    "name": "HOSMER CREEK ABOVE DIVERSIONS",
+    "province": "BC"
+  },
+  {
+    "id": "08NP003",
+    "name": "HOWELL CREEK ABOVE CABIN CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NH138",
+    "name": "HUMPHRIES CREEK NEAR TROUT LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08ME027",
+    "name": "HURLEY RIVER BELOW LONE GOAT CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "10AD002",
+    "name": "HYLAND RIVER AT KILOMETRE 108.5 NAHANNI RANGE ROAD",
+    "province": "YT"
+  },
+  {
+    "id": "09AC007",
+    "name": "IBEX RIVER NEAR WHITEHORSE",
+    "province": "YT"
+  },
+  {
+    "id": "08GE003",
+    "name": "ICY CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08ND013",
+    "name": "ILLECILLEWAET RIVER AT GREELEY",
+    "province": "BC"
+  },
+  {
+    "id": "09EB003",
+    "name": "INDIAN RIVER ABOVE THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "07EA004",
+    "name": "INGENIKA RIVER ABOVE SWANNELL RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08NM200",
+    "name": "INKANEEP CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NE110",
+    "name": "INONOAKLIN CREEK ABOVE VALLEY CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08CG001",
+    "name": "ISKUT RIVER BELOW JOHNSON RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08LF094",
+    "name": "JOE ROSS CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HB041",
+    "name": "JUMP CREEK AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NM143",
+    "name": "KALAMALKA LAKE AT VERNON PUMPHOUSE",
+    "province": "BC"
+  },
+  {
+    "id": "08MH076",
+    "name": "KANAKA CREEK NEAR WEBSTER CORNERS",
+    "province": "BC"
+  },
+  {
+    "id": "08NH005",
+    "name": "KASLO RIVER BELOW KEMP CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NH132",
+    "name": "KEEN CREEK BELOW KYAWATS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08DA012",
+    "name": "KELLY CREEK NEAR STEWART",
+    "province": "BC"
+  },
+  {
+    "id": "08FE003",
+    "name": "KEMANO RIVER ABOVE POWERHOUSE TAILRACE",
+    "province": "BC"
+  },
+  {
+    "id": "08HF014",
+    "name": "KEOGH RIVER NEAR PORT HARDY",
+    "province": "BC"
+  },
+  {
+    "id": "08NN026",
+    "name": "KETTLE RIVER NEAR WESTBRIDGE",
+    "province": "BC"
+  },
+  {
+    "id": "08NA006",
+    "name": "KICKING HORSE RIVER AT GOLDEN",
+    "province": "BC"
+  },
+  {
+    "id": "08NB017",
+    "name": "KINBASKET LAKE BELOW GARRETT CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08GF009",
+    "name": "KINGCOME RIVER BELOW ATLATZI RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "07FD019",
+    "name": "KISKATINAW RIVER BELOW BORDEN CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "07FD001",
+    "name": "KISKATINAW RIVER NEAR FARMINGTON",
+    "province": "BC"
+  },
+  {
+    "id": "08EB004",
+    "name": "KISPIOX RIVER NEAR HAZELTON",
+    "province": "BC"
+  },
+  {
+    "id": "08FF001",
+    "name": "KITIMAT RIVER BELOW HIRSCH CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08EG019",
+    "name": "KITSUMKALUM RIVER BELOW ALICE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08EB007",
+    "name": "KITWANGA RIVER NEAR KITWANGA",
+    "province": "BC"
+  },
+  {
+    "id": "08HE009",
+    "name": "KLASKISH RIVER NEAR KLASKINO INLET",
+    "province": "BC"
+  },
+  {
+    "id": "08GE002",
+    "name": "KLINAKLINI RIVER EAST CHANNEL (MAIN) NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "09EA003",
+    "name": "KLONDIKE RIVER ABOVE BONANZA CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "09EA006",
+    "name": "KLONDIKE RIVER AT ROCK CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "09CA001",
+    "name": "KLUANE LAKE NEAR BURWASH LANDING",
+    "province": "YT"
+  },
+  {
+    "id": "09CA002",
+    "name": "KLUANE RIVER AT OUTLET OF KLUANE LAKE",
+    "province": "YT"
+  },
+  {
+    "id": "08HA003",
+    "name": "KOKSILAH RIVER AT COWICHAN STATION",
+    "province": "BC"
+  },
+  {
+    "id": "08NH067",
+    "name": "KOOTENAY LAKE AT KUSKONOOK",
+    "province": "BC"
+  },
+  {
+    "id": "08NH064",
+    "name": "KOOTENAY LAKE AT QUEENS BAY",
+    "province": "BC"
+  },
+  {
+    "id": "08NG065",
+    "name": "KOOTENAY RIVER AT FORT STEELE",
+    "province": "BC"
+  },
+  {
+    "id": "08NF001",
+    "name": "KOOTENAY RIVER AT KOOTENAY CROSSING",
+    "province": "BC"
+  },
+  {
+    "id": "08NE006",
+    "name": "KUSKANAX CREEK NEAR NAKUSP",
+    "province": "BC"
+  },
+  {
+    "id": "10DB001",
+    "name": "LABICHE RIVER AT YUKON/BC BOUNDARY",
+    "province": "YT"
+  },
+  {
+    "id": "09AB010",
+    "name": "LAKE LABERGE NEAR WHITEHORSE",
+    "province": "YT"
+  },
+  {
+    "id": "08NH007",
+    "name": "LARDEAU RIVER AT MARBLEHEAD",
+    "province": "BC"
+  },
+  {
+    "id": "08LB078",
+    "name": "LEMIEUX CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NJ160",
+    "name": "LEMON CREEK ABOVE SOUTH LEMON CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "10BE001",
+    "name": "LIARD RIVER AT LOWER CROSSING",
+    "province": "BC"
+  },
+  {
+    "id": "10AA001",
+    "name": "LIARD RIVER AT UPPER CROSSING",
+    "province": "YT"
+  },
+  {
+    "id": "10AA006",
+    "name": "LIARD RIVER BELOW SCURVY CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "08MG020",
+    "name": "LILLOOET LAKE NEAR PEMBERTON",
+    "province": "BC"
+  },
+  {
+    "id": "08MG027",
+    "name": "LILLOOET RIVER AT TENAS NARROWS",
+    "province": "BC"
+  },
+  {
+    "id": "08MG005",
+    "name": "LILLOOET RIVER NEAR PEMBERTON",
+    "province": "BC"
+  },
+  {
+    "id": "08NK022",
+    "name": "LINE CREEK AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08MA006",
+    "name": "LINGFIELD CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HD023",
+    "name": "LITTLE OYSTER RIVER AT YORKE ROAD",
+    "province": "BC"
+  },
+  {
+    "id": "08HB029",
+    "name": "LITTLE QUALICUM RIVER NEAR QUALICUM BEACH",
+    "province": "BC"
+  },
+  {
+    "id": "09EA005",
+    "name": "LITTLE SOUTH KLONDIKE RIVER BELOW ROSS CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "08KE024",
+    "name": "LITTLE SWIFT RIVER AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08FF003",
+    "name": "LITTLE WEDEENE RIVER BELOW BOWBYES CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NN028",
+    "name": "LOST HORSE CREEK NEAR CHRISTIAN VALLEY",
+    "province": "BC"
+  },
+  {
+    "id": "08EF006",
+    "name": "M3 CREEK NEAR SMITHERS",
+    "province": "BC"
+  },
+  {
+    "id": "08GA061",
+    "name": "MACKAY CREEK AT MONTROYAL BOULEVARD",
+    "province": "BC"
+  },
+  {
+    "id": "08GA075",
+    "name": "MAMQUAM RIVER ABOVE RING CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09AB004",
+    "name": "MARSH LAKE NEAR WHITEHORSE",
+    "province": "YT"
+  },
+  {
+    "id": "08NG076",
+    "name": "MATHER CREEK BELOW HOULE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09DC005",
+    "name": "MAYO LAKE NEAR THE OUTLET",
+    "province": "YT"
+  },
+  {
+    "id": "08KB003",
+    "name": "MCGREGOR RIVER AT LOWER CANYON",
+    "province": "BC"
+  },
+  {
+    "id": "08KA009",
+    "name": "MCKALE RIVER NEAR 940 M CONTOUR",
+    "province": "BC"
+  },
+  {
+    "id": "08KH020",
+    "name": "MCKINLEY CREEK BELOW OUTLET OF MCKINLEY LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "09DD004",
+    "name": "MCQUESTEN RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "07EC003",
+    "name": "MESILINKA RIVER ABOVE GOPHERHOLE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HB032",
+    "name": "MILLSTONE RIVER AT NANAIMO",
+    "province": "BC"
+  },
+  {
+    "id": "08NM116",
+    "name": "MISSION CREEK NEAR EAST KELOWNA",
+    "province": "BC"
+  },
+  {
+    "id": "07FB008",
+    "name": "MOBERLY RIVER NEAR FORT ST. JOHN",
+    "province": "BC"
+  },
+  {
+    "id": "08KH019",
+    "name": "MOFFAT CREEK NEAR HORSEFLY",
+    "province": "BC"
+  },
+  {
+    "id": "09AE006",
+    "name": "MORELY RIVER AT KM 1251 ALASKA HIGHWAY",
+    "province": "YT"
+  },
+  {
+    "id": "08ED002",
+    "name": "MORICE RIVER NEAR HOUSTON",
+    "province": "BC"
+  },
+  {
+    "id": "08KA013",
+    "name": "MORKILL RIVER BELOW HELLROARING CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NH139",
+    "name": "MOYIE RIVER ABOVE NOKE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08KB006",
+    "name": "MULLER CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "07FB006",
+    "name": "MURRAY RIVER ABOVE WOLVERINE RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "07FB002",
+    "name": "MURRAY RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "10CD001",
+    "name": "MUSKWA RIVER NEAR FORT NELSON",
+    "province": "BC"
+  },
+  {
+    "id": "08JB007",
+    "name": "NADINA LAKE NEAR NORALEE",
+    "province": "BC"
+  },
+  {
+    "id": "08JB008",
+    "name": "NADINA RIVER AT OUTLET OF NADINA LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08MF065",
+    "name": "NAHATLATCH RIVER BELOW TACHEWANA CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HB034",
+    "name": "NANAIMO RIVER NEAR CASSIDY",
+    "province": "BC"
+  },
+  {
+    "id": "08ED001",
+    "name": "NANIKA RIVER AT OUTLET OF KIDPRICE LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08DB001",
+    "name": "NASS RIVER ABOVE SHUMAL CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "07ED001",
+    "name": "NATION RIVER NEAR FORT ST. JAMES",
+    "province": "BC"
+  },
+  {
+    "id": "07ED003",
+    "name": "NATION RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08JB003",
+    "name": "NAUTLEY RIVER NEAR FORT FRASER",
+    "province": "BC"
+  },
+  {
+    "id": "08JA023",
+    "name": "NECHAKO RESERVOIR AT SKINS LAKE SPILLWAY",
+    "province": "BC"
+  },
+  {
+    "id": "08JC002",
+    "name": "NECHAKO RIVER AT ISLE PIERRE",
+    "province": "BC"
+  },
+  {
+    "id": "08JC001",
+    "name": "NECHAKO RIVER AT VANDERHOOF",
+    "province": "BC"
+  },
+  {
+    "id": "08JA017",
+    "name": "NECHAKO RIVER BELOW CHESLATTA FALLS",
+    "province": "BC"
+  },
+  {
+    "id": "08LG046",
+    "name": "NICOLA LAKE NEAR QUILCHENA",
+    "province": "BC"
+  },
+  {
+    "id": "08LG028",
+    "name": "NICOLA RIVER AT OUTLET OF DOUGLAS LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08LG065",
+    "name": "NICOLA RIVER AT OUTLET OF NICOLA LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08LG070",
+    "name": "NICOLA RIVER SOUTH OF SHACKAN",
+    "province": "BC"
+  },
+  {
+    "id": "08MH155",
+    "name": "NICOMEKL RIVER AT 203 STREET, LANGLEY",
+    "province": "BC"
+  },
+  {
+    "id": "08HB022",
+    "name": "NILE CREEK NEAR BOWSER",
+    "province": "BC"
+  },
+  {
+    "id": "08HF005",
+    "name": "NIMPKISH RIVER ABOVE WOSS RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "09CA006",
+    "name": "NISLING RIVER BELOW ONION CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "09AH004",
+    "name": "NORDENSKIOLD RIVER BELOW ROWLINSON CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "08NB020",
+    "name": "NORDIC CREEK AT THE OUTLET OF NORDIC GLACIER",
+    "province": "BC"
+  },
+  {
+    "id": "08MH032",
+    "name": "NORTH ARM FRASER RIVER AT VANCOUVER",
+    "province": "BC"
+  },
+  {
+    "id": "08JB013",
+    "name": "NORTH BEACH CREEK ABOVE ALLIN CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09EA004",
+    "name": "NORTH KLONDIKE RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "08LB047",
+    "name": "NORTH THOMPSON RIVER AT BIRCH ISLAND",
+    "province": "BC"
+  },
+  {
+    "id": "08LB064",
+    "name": "NORTH THOMPSON RIVER AT MCLURE",
+    "province": "BC"
+  },
+  {
+    "id": "10MA002",
+    "name": "OGILVIE RIVER AT KILOMETRE 197.9 DEMPSTER HIGHWAY",
+    "province": "YT"
+  },
+  {
+    "id": "08NM083",
+    "name": "OKANAGAN LAKE AT KELOWNA",
+    "province": "BC"
+  },
+  {
+    "id": "08NM002",
+    "name": "OKANAGAN RIVER AT OKANAGAN FALLS",
+    "province": "BC"
+  },
+  {
+    "id": "08NM050",
+    "name": "OKANAGAN RIVER AT PENTICTON",
+    "province": "BC"
+  },
+  {
+    "id": "08NM247",
+    "name": "OKANAGAN RIVER BELOW MCINTYRE DAM",
+    "province": "BC"
+  },
+  {
+    "id": "08NM085",
+    "name": "OKANAGAN RIVER NEAR OLIVER",
+    "province": "BC"
+  },
+  {
+    "id": "09FC001",
+    "name": "OLD CROW RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "07EC002",
+    "name": "OMINECA RIVER ABOVE OSILINKA RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08MH168",
+    "name": "OR CREEK NEAR COQUITLAM",
+    "province": "BC"
+  },
+  {
+    "id": "07EC004",
+    "name": "OSILINKA RIVER NEAR END LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "07EB002",
+    "name": "OSPIKA RIVER ABOVE ALEY CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08FA007",
+    "name": "OWIKENO LAKE AT RIVERS INLET",
+    "province": "BC"
+  },
+  {
+    "id": "08HD011",
+    "name": "OYSTER RIVER BELOW WOODHUS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "07EE010",
+    "name": "PACK RIVER AT OUTLET OF MCLEOD LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08OB002",
+    "name": "PALLANT CREEK NEAR QUEEN CHARLOTTE",
+    "province": "BC"
+  },
+  {
+    "id": "07EE007",
+    "name": "PARSNIP RIVER ABOVE MISINCHINKA RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08NL069",
+    "name": "PASAYTEN RIVER ABOVE CALCITE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "07FD010",
+    "name": "PEACE RIVER ABOVE ALCES RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "07FA004",
+    "name": "PEACE RIVER ABOVE PINE RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "07FD002",
+    "name": "PEACE RIVER NEAR TAYLOR",
+    "province": "BC"
+  },
+  {
+    "id": "08NM172",
+    "name": "PEARSON CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "10MA001",
+    "name": "PEEL RIVER ABOVE CANYON CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "09BC001",
+    "name": "PELLY RIVER AT PELLY CROSSING",
+    "province": "YT"
+  },
+  {
+    "id": "09BC002",
+    "name": "PELLY RIVER AT ROSS RIVER",
+    "province": "YT"
+  },
+  {
+    "id": "09BC004",
+    "name": "PELLY RIVER BELOW VANGORDA CREEK",
+    "province": "YT"
+  },
+  {
+    "id": "08MG025",
+    "name": "PEMBERTON CREEK NEAR PEMBERTON",
+    "province": "BC"
+  },
+  {
+    "id": "08KH030",
+    "name": "PENFOLD CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08LG016",
+    "name": "PENNASK CREEK NEAR QUILCHENA",
+    "province": "BC"
+  },
+  {
+    "id": "08MH156",
+    "name": "PEPIN CREEK AT INTERNATIONAL BOUNDARY",
+    "province": "BC"
+  },
+  {
+    "id": "07FB001",
+    "name": "PINE RIVER AT EAST PINE",
+    "province": "BC"
+  },
+  {
+    "id": "08EC004",
+    "name": "PINKUT CREEK NEAR TINTAGEL",
+    "province": "BC"
+  },
+  {
+    "id": "08MH035",
+    "name": "PITT RIVER NEAR PORT COQUITLAM",
+    "province": "BC"
+  },
+  {
+    "id": "09FD003",
+    "name": "PORCUPINE RIVER BELOW OLD CROW RIVER",
+    "province": "YT"
+  },
+  {
+    "id": "09FD002",
+    "name": "PORCUPINE RIVER NEAR INTERNATIONAL BOUNDARY",
+    "province": "YT"
+  },
+  {
+    "id": "07FD007",
+    "name": "POUCE COUPE RIVER BELOW HENDERSON CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08OA003",
+    "name": "PREMIER CREEK NEAR QUEEN CHARLOTTE",
+    "province": "BC"
+  },
+  {
+    "id": "08HF012",
+    "name": "PUGH CREEK NEAR NAHWITTI LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08HB006",
+    "name": "PUNTLEDGE RIVER AT COURTENAY",
+    "province": "BC"
+  },
+  {
+    "id": "08HB084",
+    "name": "PUNTLEDGE RIVER BELOW DIVERSION",
+    "province": "BC"
+  },
+  {
+    "id": "08KH011",
+    "name": "QUESNEL LAKE NEAR LIKELY",
+    "province": "BC"
+  },
+  {
+    "id": "08KH001",
+    "name": "QUESNEL RIVER AT LIKELY",
+    "province": "BC"
+  },
+  {
+    "id": "08KH006",
+    "name": "QUESNEL RIVER NEAR QUESNEL",
+    "province": "BC"
+  },
+  {
+    "id": "08LG017",
+    "name": "QUILCHENA CREEK AT QUILCHENA",
+    "province": "BC"
+  },
+  {
+    "id": "08HD026",
+    "name": "QUINSAM DIVERSION NEAR CAMPBELL RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08HD021",
+    "name": "QUINSAM RIVER AT ARGONAUT BRIDGE",
+    "province": "BC"
+  },
+  {
+    "id": "08HD027",
+    "name": "QUINSAM RIVER BELOW LOWER QUINSAM LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08HD034",
+    "name": "QUINSAM RIVER DIVERSION HEADPOND",
+    "province": "BC"
+  },
+  {
+    "id": "08HD005",
+    "name": "QUINSAM RIVER NEAR CAMPBELL RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08HDX05",
+    "name": "QUINSAM RIVER NEAR CAMPBELL RIVER (AUXILIARY STATION)",
+    "province": "BC"
+  },
+  {
+    "id": "10AA004",
+    "name": "RANCHERIA RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "10CD003",
+    "name": "RASPBERRY CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NJ061",
+    "name": "REDFISH CREEK NEAR HARROP",
+    "province": "BC"
+  },
+  {
+    "id": "08FF006",
+    "name": "RENEGADE CREEK NEAR KITIMAT",
+    "province": "BC"
+  },
+  {
+    "id": "08HA069",
+    "name": "RENFREW CREEK NEAR PORT RENFREW",
+    "province": "BC"
+  },
+  {
+    "id": "08ND026",
+    "name": "REVELSTOKE RESERVOIR AT MARTHA CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08GA047",
+    "name": "ROBERTS CREEK AT ROBERTS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09BA001",
+    "name": "ROSS RIVER AT ROSS RIVER",
+    "province": "YT"
+  },
+  {
+    "id": "08MG028",
+    "name": "RYAN RIVER NEAR PEMBERTON MEADOWS",
+    "province": "BC"
+  },
+  {
+    "id": "08FB004",
+    "name": "SALLOOMT RIVER NEAR HAGENSBORG",
+    "province": "BC"
+  },
+  {
+    "id": "08NE074",
+    "name": "SALMO RIVER NEAR SALMO",
+    "province": "BC"
+  },
+  {
+    "id": "08HD007",
+    "name": "SALMON RIVER ABOVE MEMEKAY RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08MH090",
+    "name": "SALMON RIVER AT 72 AVENUE, LANGLEY",
+    "province": "BC"
+  },
+  {
+    "id": "08LE020",
+    "name": "SALMON RIVER AT FALKLAND",
+    "province": "BC"
+  },
+  {
+    "id": "08HD032",
+    "name": "SALMON RIVER BELOW CAMPBELL LAKE DIVERSION",
+    "province": "BC"
+  },
+  {
+    "id": "08KC001",
+    "name": "SALMON RIVER NEAR PRINCE GEORGE",
+    "province": "BC"
+  },
+  {
+    "id": "08LE021",
+    "name": "SALMON RIVER NEAR SALMON ARM",
+    "province": "BC"
+  },
+  {
+    "id": "08HD006",
+    "name": "SALMON RIVER NEAR SAYWARD",
+    "province": "BC"
+  },
+  {
+    "id": "08MC040",
+    "name": "SAN JOSE RIVER ABOVE BORLAND CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HF006",
+    "name": "SAN JOSEF RIVER BELOW SHARP CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HA010",
+    "name": "SAN JUAN RIVER NEAR PORT RENFREW",
+    "province": "BC"
+  },
+  {
+    "id": "08HB014",
+    "name": "SARITA RIVER NEAR BAMFIELD",
+    "province": "BC"
+  },
+  {
+    "id": "08AA007",
+    "name": "SEKULMUN LAKE NEAR WHITEHORSE",
+    "province": "YT"
+  },
+  {
+    "id": "08AA008",
+    "name": "SEKULMUN RIVER AT OUTLET OF SEKULMUN LAKE",
+    "province": "YT"
+  },
+  {
+    "id": "08ME003",
+    "name": "SETON RIVER NEAR LILLOOET",
+    "province": "BC"
+  },
+  {
+    "id": "08GA079",
+    "name": "SEYMOUR RIVER ABOVE LAKEHEAD",
+    "province": "BC"
+  },
+  {
+    "id": "08GA077",
+    "name": "SEYMOUR RIVER BELOW ORCHID CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08GA030",
+    "name": "SEYMOUR RIVER NEAR NORTH VANCOUVER",
+    "province": "BC"
+  },
+  {
+    "id": "08LE027",
+    "name": "SEYMOUR RIVER NEAR SEYMOUR ARM",
+    "province": "BC"
+  },
+  {
+    "id": "08NM037",
+    "name": "SHATFORD CREEK NEAR PENTICTON",
+    "province": "BC"
+  },
+  {
+    "id": "08MC045",
+    "name": "SHERIDAN CREEK ABOVE MCLEESE LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08LE070",
+    "name": "SHUSWAP LAKE AT SALMON ARM",
+    "province": "BC"
+  },
+  {
+    "id": "08LC018",
+    "name": "SHUSWAP RIVER AT OUTLET OF SUGAR LAKE RESERVOIR",
+    "province": "BC"
+  },
+  {
+    "id": "08LC002",
+    "name": "SHUSWAP RIVER NEAR ENDERBY",
+    "province": "BC"
+  },
+  {
+    "id": "08LC003",
+    "name": "SHUSWAP RIVER NEAR LUMBY",
+    "province": "BC"
+  },
+  {
+    "id": "09AD002",
+    "name": "SIDNEY CREEK AT KILOMETRE 46 SOUTH CANOL ROAD",
+    "province": "YT"
+  },
+  {
+    "id": "10CB001",
+    "name": "SIKANNI CHIEF RIVER NEAR FORT NELSON",
+    "province": "BC"
+  },
+  {
+    "id": "08NL070",
+    "name": "SIMILKAMEEN RIVER ABOVE GOODFELLOW CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NL007",
+    "name": "SIMILKAMEEN RIVER AT PRINCETON",
+    "province": "BC"
+  },
+  {
+    "id": "08NL038",
+    "name": "SIMILKAMEEN RIVER NEAR HEDLEY",
+    "province": "BC"
+  },
+  {
+    "id": "08EE012",
+    "name": "SIMPSON CREEK AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HF013",
+    "name": "SIMPSON CREEK NEAR KOPRINO HARBOUR",
+    "province": "BC"
+  },
+  {
+    "id": "09FB003",
+    "name": "SISTER CREEK AT KM 426 DEMPSTER HIGHWAY",
+    "province": "YT"
+  },
+  {
+    "id": "08NL039",
+    "name": "SIWASH CREEK NEAR PRINCETON",
+    "province": "BC"
+  },
+  {
+    "id": "09EB004",
+    "name": "SIXTY MILE RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "08PA012",
+    "name": "SKAGIT RIVER ABOVE KLESILKWA RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08PA004",
+    "name": "SKAGIT RIVER AT INTERNATIONAL BOUNDARY",
+    "province": "BC"
+  },
+  {
+    "id": "08NM084",
+    "name": "SKAHA LAKE AT OKANAGAN FALLS",
+    "province": "BC"
+  },
+  {
+    "id": "08EB005",
+    "name": "SKEENA RIVER ABOVE BABINE RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08EB003",
+    "name": "SKEENA RIVER AT GLEN VOWELL",
+    "province": "BC"
+  },
+  {
+    "id": "08EF001",
+    "name": "SKEENA RIVER AT USK",
+    "province": "BC"
+  },
+  {
+    "id": "08MH056",
+    "name": "SLESSE CREEK NEAR VEDDER CROSSING",
+    "province": "BC"
+  },
+  {
+    "id": "08NJ013",
+    "name": "SLOCAN RIVER NEAR CRESCENT VALLEY",
+    "province": "BC"
+  },
+  {
+    "id": "10BE013",
+    "name": "SMITH RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "10MB003",
+    "name": "SNAKE RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "09BB001",
+    "name": "SOUTH MACMILLAN RIVER AT KILOMETRE 407 CANOL ROAD",
+    "province": "YT"
+  },
+  {
+    "id": "08HB092",
+    "name": "SOUTH NANAIMO RIVER NEAR JUNCTION",
+    "province": "BC"
+  },
+  {
+    "id": "08LE031",
+    "name": "SOUTH THOMPSON RIVER AT CHASE",
+    "province": "BC"
+  },
+  {
+    "id": "08GD010",
+    "name": "SOUTHGATE RIVER ABOVE ELLIOT CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NA011",
+    "name": "SPILLIMACHEEN RIVER NEAR SPILLIMACHEEN",
+    "province": "BC"
+  },
+  {
+    "id": "08LG008",
+    "name": "SPIUS CREEK NEAR CANFORD",
+    "province": "BC"
+  },
+  {
+    "id": "08NB016",
+    "name": "SPLIT CREEK AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HB008",
+    "name": "SPROAT RIVER NEAR ALBERNI",
+    "province": "BC"
+  },
+  {
+    "id": "08GA022",
+    "name": "SQUAMISH RIVER NEAR BRACKENDALE",
+    "province": "BC"
+  },
+  {
+    "id": "08NG077",
+    "name": "ST. MARY RIVER BELOW MORRIS CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08MH147",
+    "name": "STAVE RIVER ABOVE STAVE LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08GA076",
+    "name": "STAWAMUS RIVER AT HIGHWAY NO. 99",
+    "province": "BC"
+  },
+  {
+    "id": "08JB002",
+    "name": "STELLAKO RIVER AT GLENANNAN",
+    "province": "BC"
+  },
+  {
+    "id": "09DD003",
+    "name": "STEWART RIVER AT THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "09DC006",
+    "name": "STEWART RIVER NEAR MAYO",
+    "province": "YT"
+  },
+  {
+    "id": "08CE001",
+    "name": "STIKINE RIVER AT TELEGRAPH CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08JE001",
+    "name": "STUART RIVER NEAR FORT ST. JAMES",
+    "province": "BC"
+  },
+  {
+    "id": "08LC041",
+    "name": "SUGAR LAKE RESERVOIR AT THE OUTLET",
+    "province": "BC"
+  },
+  {
+    "id": "07FB003",
+    "name": "SUKUNKA RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NH115",
+    "name": "SULLIVAN CREEK NEAR CANYON",
+    "province": "BC"
+  },
+  {
+    "id": "08MH029",
+    "name": "SUMAS RIVER NEAR HUNTINGDON",
+    "province": "BC"
+  },
+  {
+    "id": "08DA005",
+    "name": "SURPRISE CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "09AE003",
+    "name": "SWIFT RIVER NEAR SWIFT RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "09AA017",
+    "name": "TAGISH LAKE AT 10 MILE ROAD",
+    "province": "YT"
+  },
+  {
+    "id": "08CE005",
+    "name": "TAHLTAN RIVER AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08AC001",
+    "name": "TAKHANNE RIVER AT KM 167 HAINES HIGHWAY",
+    "province": "YT"
+  },
+  {
+    "id": "09AC001",
+    "name": "TAKHINI RIVER NEAR WHITEHORSE",
+    "province": "YT"
+  },
+  {
+    "id": "08OA005",
+    "name": "TARUNDL CREEK NEAR QUEEN CHARLOTTE",
+    "province": "BC"
+  },
+  {
+    "id": "08MA003",
+    "name": "TASEKO RIVER AT OUTLET OF TASEKO LAKES",
+    "province": "BC"
+  },
+  {
+    "id": "08AC002",
+    "name": "TATSHENSHINI RIVER NEAR DALTON POST",
+    "province": "YT"
+  },
+  {
+    "id": "10BE009",
+    "name": "TEETER CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08EE020",
+    "name": "TELKWA RIVER BELOW TSAI CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09AE002",
+    "name": "TESLIN LAKE AT TESLIN",
+    "province": "YT"
+  },
+  {
+    "id": "08ED004",
+    "name": "THAUTIL CORNER CREEK NEAR MORICE LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08GC008",
+    "name": "THEODOSIA RIVER ABOVE SCOTTY CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08GC007",
+    "name": "THEODOSIA RIVER BELOW OLSEN LAKE DIVERSION",
+    "province": "BC"
+  },
+  {
+    "id": "08GC005",
+    "name": "THEODOSIA RIVER DIVERSION ABOVE OLSEN LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08GC006",
+    "name": "THEODOSIA RIVER DIVERSION BYPASS",
+    "province": "BC"
+  },
+  {
+    "id": "08LF023",
+    "name": "THOMPSON RIVER AT KAMLOOPS",
+    "province": "BC"
+  },
+  {
+    "id": "08LF033",
+    "name": "THOMPSON RIVER NEAR SAVONA",
+    "province": "BC"
+  },
+  {
+    "id": "08LF051",
+    "name": "THOMPSON RIVER NEAR SPENCES BRIDGE",
+    "province": "BC"
+  },
+  {
+    "id": "10BE004",
+    "name": "TOAD RIVER ABOVE NONDA CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HB086",
+    "name": "TOFINO CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NN019",
+    "name": "TRAPPING CREEK NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08NM158",
+    "name": "TROUT CREEK AT THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "10BE007",
+    "name": "TROUT RIVER AT KILOMETRE 783.7 ALASKA HIGHWAY",
+    "province": "BC"
+  },
+  {
+    "id": "08JE004",
+    "name": "TSILCOH RIVER NEAR THE MOUTH",
+    "province": "BC"
+  },
+  {
+    "id": "08HF004",
+    "name": "TSITIKA RIVER BELOW CATHERINE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08HB011",
+    "name": "TSOLUM RIVER NEAR COURTENAY",
+    "province": "BC"
+  },
+  {
+    "id": "08NL024",
+    "name": "TULAMEEN RIVER AT PRINCETON",
+    "province": "BC"
+  },
+  {
+    "id": "08NL071",
+    "name": "TULAMEEN RIVER BELOW VUICH CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09AA013",
+    "name": "TUTSHI RIVER AT OUTLET OF TUTSHI LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08CD001",
+    "name": "TUYA RIVER NEAR TELEGRAPH CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08EC014",
+    "name": "TWAIN CREEK TRIBUTARY NEAR BABINE LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08NM240",
+    "name": "TWO FORTY CREEK NEAR PENTICTON",
+    "province": "BC"
+  },
+  {
+    "id": "08NM241",
+    "name": "TWO FORTY-ONE CREEK NEAR PENTICTON",
+    "province": "BC"
+  },
+  {
+    "id": "08HD031",
+    "name": "UPPER CAMPBELL LAKE AT STRATHCONA DAM",
+    "province": "BC"
+  },
+  {
+    "id": "08LC040",
+    "name": "VANCE CREEK BELOW DEAFIES CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NM171",
+    "name": "VASEUX CREEK ABOVE SOLCO CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08NM243",
+    "name": "VASEUX LAKE NEAR THE OUTLET",
+    "province": "BC"
+  },
+  {
+    "id": "08NM065",
+    "name": "VERNON CREEK AT OUTLET OF KALAMALKA LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08GF007",
+    "name": "WAKEMAN RIVER BELOW ATWAYKELLESSE RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08FA002",
+    "name": "WANNOCK RIVER AT OUTLET OF OWIKENO LAKE",
+    "province": "BC"
+  },
+  {
+    "id": "08AA011",
+    "name": "WEST AISHIHIK RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "08NN003",
+    "name": "WEST KETTLE RIVER AT WESTBRIDGE",
+    "province": "BC"
+  },
+  {
+    "id": "08NN015",
+    "name": "WEST KETTLE RIVER NEAR MCCULLOCH",
+    "province": "BC"
+  },
+  {
+    "id": "08KG001",
+    "name": "WEST ROAD RIVER NEAR CINEMA",
+    "province": "BC"
+  },
+  {
+    "id": "08NE130",
+    "name": "WHATSHAN RIVER BELOW BARNES CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09AA012",
+    "name": "WHEATON RIVER NEAR CARCROSS",
+    "province": "YT"
+  },
+  {
+    "id": "09CB001",
+    "name": "WHITE RIVER AT KILOMETRE 1881.6 ALASKA HIGHWAY",
+    "province": "YT"
+  },
+  {
+    "id": "08NM174",
+    "name": "WHITEMAN CREEK ABOVE BOULEAU CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "08JA029",
+    "name": "WHITESAIL MIDDLE CREEK NEAR TAHTSA REACH",
+    "province": "BC"
+  },
+  {
+    "id": "09FA001",
+    "name": "WHITESTONE RIVER NEAR THE MOUTH",
+    "province": "YT"
+  },
+  {
+    "id": "07EF002",
+    "name": "WILLISTON LAKE AT LOST CABIN CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "07EF003",
+    "name": "WILLISTON LAKE NEAR SCHOOLER CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "10MA005",
+    "name": "WIND RIVER ABOVE LITTLE WIND",
+    "province": "YT"
+  },
+  {
+    "id": "08HD025",
+    "name": "WOKAS LAKE NEAR CAMPBELL RIVER",
+    "province": "BC"
+  },
+  {
+    "id": "08OA002",
+    "name": "YAKOUN RIVER NEAR PORT CLEMENTS",
+    "province": "BC"
+  },
+  {
+    "id": "08ME025",
+    "name": "YALAKOM RIVER ABOVE ORE CREEK",
+    "province": "BC"
+  },
+  {
+    "id": "09CD001",
+    "name": "YUKON RIVER ABOVE WHITE RIVER",
+    "province": "YT"
+  },
+  {
+    "id": "09AH001",
+    "name": "YUKON RIVER AT CARMACKS",
+    "province": "YT"
+  },
+  {
+    "id": "09EB001",
+    "name": "YUKON RIVER AT DAWSON",
+    "province": "YT"
+  },
+  {
+    "id": "09AB001",
+    "name": "YUKON RIVER AT WHITEHORSE",
+    "province": "YT"
+  },
+  {
+    "id": "08HE008",
+    "name": "ZEBALLOS RIVER AT MOOK PEAK",
+    "province": "BC"
+  },
+  {
+    "id": "08HE006",
+    "name": "ZEBALLOS RIVER NEAR ZEBALLOS",
+    "province": "BC"
+  },
+  {
+    "id": "08EF005",
+    "name": "ZYMOETZ RIVER ABOVE O.K. CREEK",
+    "province": "BC"
+  }
+]

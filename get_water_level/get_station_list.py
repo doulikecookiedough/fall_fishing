@@ -1,4 +1,5 @@
 import requests
+import json
 from datetime import date
 from lxml import etree
 from io import StringIO
@@ -101,7 +102,10 @@ if __name__ == '__main__':
 
     station_list_with_ids = get_station_list(
         water_office_begin_url, search_type, region)
-    print(f"Station ID List:\n{station_list_with_ids}")
+
+    target_file = f'./water_station_list.json'
+    with open(target_file, 'w') as f:
+        f.write(json.dumps(station_list_with_ids))
 
     todays_date = date.today().strftime("%Y-%m-%d")
     disclaimer_info = f'Extracted from the Environment and Climate Change Canada Real-time Hydrometric Data web site (https://wateroffice.ec.gc.ca/mainmenu/real_time_data_index_e.html) on {todays_date}'
