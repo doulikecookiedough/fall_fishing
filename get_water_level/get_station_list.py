@@ -35,18 +35,18 @@ def get_station_list(url, query_type, region):
 
         station_list = []
         station_rows = tree.xpath("//tbody/tr")
-        station_labels = tree.xpath("//tbody/tr/td/label")
-        station_label_count = 0
+        # station_labels = tree.xpath("//tbody/tr/td/label")
+        # station_label_count = 0
         for row in station_rows:
             station_cells = row.xpath("td")
             station_list.append(
                 {
                     "id": station_cells[3].text,
-                    "name": station_labels[station_label_count].text,
+                    "name": station_cells[1].xpath("label")[0].text,
                     "province": station_cells[2].text
                 }
             )
-            station_label_count = station_label_count + 1
+            # station_label_count = station_label_count + 1
 
         # Station list should look like [... , {"id": "08MH001", "name": "CHILLIWACK RIVER AT VEDDER CROSSING", "province": "BC"} , ...]
         return station_list
