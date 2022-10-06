@@ -33,60 +33,23 @@ def get_station_list(url, query_type, region):
         content_to_parse = StringIO(content)
         tree = etree.parse(content_to_parse, parser=parser)
 
-        # Get list of station labels
-        station_label_list = []
-        station_data_labels = tree.xpath("//tbody/tr/td/label")
-        for item in station_data_labels:
-            element_value = item.text
-            station_label_list.append(
+        station_list = []
+        station_rows = tree.xpath("//tbody/tr")
+        station_labels = tree.xpath("//tbody/tr/td/label")
+        label_count = 0
+        for row in station_rows:
+            station_cells = row.xpath("td")
+            station_list.append(
                 {
-                    "label": element_value
+                    "id": station_cells[3].text,
+                    "name": station_labels[label_count].text,
+                    "province": station_cells[2].text
                 }
             )
+            label_count = label_count + 1
 
-        # Get list of station ids
-        station_id_list = []
-        station_data_ids = tree.xpath("//tbody/tr/td")
-        for item in station_data_ids:
-            element_value = str(item.text)
-            station_status = any(char.isdigit() for char in element_value)
-            if station_status:
-                station_id_list.append(
-                    {
-                        "id": element_value
-                    }
-                )
-
-        # Get list of station provinces
-        station_province_list = []
-        station_province_codes = tree.xpath("//tbody/tr/td")
-        for item in station_province_codes:
-            element_value = str(item.text)
-            station_province_length = len(element_value)
-            if station_province_length == 2 and element_value != "No":
-                station_province_list.append(
-                    {
-                        "code": element_value
-                    }
-                )
-
-        # Confirm that lists are the same length, return error if not
-        station_label_list_length = len(station_label_list)
-        station_id_list_length = len(station_id_list)
-        station_province_list_length = len(station_province_list)
-        station_list_mapped = []
-        if station_label_list_length == station_id_list_length and station_id_list_length == station_province_list_length:
-            # Join labels with ids, both already ordered based on xpath order
-            for i in range(0, station_id_list_length):
-                station_list_mapped.append(
-                    {
-                        "id": station_id_list[i]['id'],
-                        "name": station_label_list[i]['label'],
-                        "province": station_province_list[i]['code']
-                    }
-                )
-
-        return station_list_mapped
+        # Station list should look like [... , {"id": "08MH001", "name": "CHILLIWACK RIVER AT VEDDER CROSSING", "province": "BC"} , ...]
+        return station_list
 
     except Exception as e:
         exception_message = f"Exception: {e}"
