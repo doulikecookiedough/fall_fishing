@@ -34,23 +34,25 @@ def get_station_details(url, station_id):
         content_to_parse = StringIO(content)
         tree = etree.parse(content_to_parse, parser=parser)
 
-        station_list = []
-        station_rows = tree.xpath("//tbody/tr")
-        for row in station_rows:
-            station_cells = row.xpath("td")
-            station_list.append(
-                {
-                    "id": station_cells[3].text,
-                    "name": station_cells[1].xpath("label")[0].text,
-                    "province": station_cells[2].text
-                }
-            )
+        station_details_data = []
+        latest_water_measurement_statement = ""
+        station_paragraphs = tree.xpath("//p")
+        for row in station_paragraphs:
+            if row.text != None and "latest water level" in row.text:
+                latest_water_measurement_statement = row.text
+                station_details_data.append(
+                    {"latest_water_statement": latest_water_measurement_statement})
+            else:
+                latest_water_measurement_statement = "Water level unavailable at this time. Please try again later."
+                # To do: Send email alert
 
-        target_file = f'./_ReferenceExamples/water_station.html'
-        with open(target_file, 'w') as f:
-            f.write(content)
+        print(station_details_data)
 
-        return content
+        # target_file = f'./_ReferenceExamples/water_station.html'
+        # with open(target_file, 'w') as f:
+        #     f.write(content)
+
+        return station_details_data
 
     except Exception as e:
         exception_message = f"Exception: {e}"
@@ -65,12 +67,12 @@ if __name__ == '__main__':
     station_detail_url = "https://wateroffice.ec.gc.ca/report/real_time_e.html"
 
     # Retrieve the latest water level & historical graph data
-    station_list_with_ids = get_station_details(
+    station_detail_request = get_station_details(
         station_detail_url, station_id)
 
-    # target_file = f'./water_station_detail.json'
-    # with open(target_file, 'w') as f:
-    #     f.write(json.dumps(station_list_with_ids))
+    target_file = f'./water_station_{station_id}.json'
+    with open(target_file, 'w') as f:
+        f.write(json.dumps(station_detail_request))
 
     todays_date = date.today().strftime("%Y-%m-%d")
     disclaimer_info = f'Extracted from the Environment and Climate Change Canada Real-time Hydrometric Data web site (https://wateroffice.ec.gc.ca/mainmenu/real_time_data_index_e.html) on {todays_date}'
