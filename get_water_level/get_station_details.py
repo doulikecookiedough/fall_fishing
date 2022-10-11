@@ -47,13 +47,13 @@ def get_station_details(url, station_id):
                 latest_water_measurement_statement = "Water level unavailable at this time. Please try again later."
                 # To do: Send email alert
 
-        water_station_html_example = f'./_ReferenceExamples/water_station.html'
-        with open(water_station_html_example, 'w') as f:
-            f.write(content)
+        # water_station_html_example = f'./_ReferenceExamples/water_station.html'
+        # with open(water_station_html_example, 'w') as f:
+        #     f.write(content)
 
-        water_station_level_example = f'./_ReferenceExamples/water_level_{station_id}.json'
-        with open(water_station_level_example, 'w') as f:
-            f.write(json.dumps(station_details_data))
+        # water_station_level_example = f'./_ReferenceExamples/water_level_{station_id}.json'
+        # with open(water_station_level_example, 'w') as f:
+        #     f.write(json.dumps(station_details_data))
 
         return station_details_data
 
@@ -89,15 +89,16 @@ def get_station_details_graph(url, station_id, date1, date2, param1, param2):
 
         station_graph_data = []
         station_graph_data.append({
+            'comment': "The discharge level is the volume of water moving down a stream or river per unit of time, commonly expressed in cubic feet per second or gallons per day.",
             'water_level': content['46']['provisional'],
             'discharge_level': content['47']['provisional']
         })
 
-        target_file = f'./_referenceExamples/water_station_{station_id}_graph.json'
-        with open(target_file, 'w') as f:
-            f.write(json.dumps(station_graph_data))
+        # target_file = f'./_referenceExamples/water_station_{station_id}_graph.json'
+        # with open(target_file, 'w') as f:
+        #     f.write(json.dumps(station_graph_data))
 
-        return content
+        return station_graph_data
 
     except Exception as e:
         exception_message = f"Exception: {e}"
@@ -125,9 +126,11 @@ if __name__ == '__main__':
     station_graph_request = get_station_details_graph(
         station_graph_url, station_id, start_date, end_date, water_level_primary_sensor_id, discharge_level_primary_sensor_derived_id)
 
-    # target_file = f'./water_station_state_{station_id}.json'
-    # with open(target_file, 'w') as f:
-    #     f.write(json.dumps(final_station_data))
+    station_full_details = station_detail_request + station_graph_request
+
+    target_file = f'./_ReferenceExamples/{station_id}_full_details.json'
+    with open(target_file, 'w') as f:
+        f.write(json.dumps(station_full_details))
 
     todays_date = end_date
     disclaimer_info = f'Extracted from the Environment and Climate Change Canada Real-time Hydrometric Data web site (https://wateroffice.ec.gc.ca/mainmenu/real_time_data_index_e.html) on {todays_date}'
