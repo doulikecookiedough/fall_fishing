@@ -1,9 +1,11 @@
 import requests
 import json
+import asyncio
 from datetime import date
 from lxml import etree
 from io import StringIO
-import asyncio
+
+# This retrieves the latest water level measurement
 
 
 async def get_station_details(url, station_id):
@@ -62,6 +64,8 @@ async def get_station_details(url, station_id):
         print(exception_message)
         return
 
+# This retrieves the water and discharge level data (to be displayed in a graph)
+
 
 async def get_station_details_graph(url, station_id, date1, date2, param1, param2):
     try:
@@ -115,6 +119,7 @@ async def main(station_detail_url, station_graph_url, station_id, start_date, en
 
 if __name__ == '__main__':
     # Search terms
+    # These terms will be retrieved based on user input on a website at a later date
     station_id = "08MH001"
     start_date = "2022-09-20"
     end_date = date.today().strftime("%Y-%m-%d")
