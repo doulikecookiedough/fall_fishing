@@ -5,9 +5,9 @@ from datetime import date
 from lxml import etree
 from io import StringIO
 
+
 # This retrieves the latest water level measurement
-
-
+# It requires an endpoint URL as well as a station ID
 async def get_station_details(url, station_id):
     try:
         headers = {
@@ -64,9 +64,8 @@ async def get_station_details(url, station_id):
         print(exception_message)
         return
 
+
 # This retrieves the water and discharge level data (to be displayed in a graph)
-
-
 async def get_station_details_graph(url, station_id, date1, date2, param1, param2):
     try:
         headers = {
