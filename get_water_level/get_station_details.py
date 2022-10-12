@@ -3,10 +3,10 @@ import json
 from datetime import date
 from lxml import etree
 from io import StringIO
-from multiprocessing import Process
+import asyncio
 
 
-def get_station_details(url, station_id):
+async def get_station_details(url, station_id):
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
@@ -63,7 +63,7 @@ def get_station_details(url, station_id):
         return
 
 
-def get_station_details_graph(url, station_id, date1, date2, param1, param2):
+async def get_station_details_graph(url, station_id, date1, date2, param1, param2):
     try:
         headers = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36',
@@ -106,6 +106,13 @@ def get_station_details_graph(url, station_id, date1, date2, param1, param2):
         return
 
 
+async def main(station_detail_url, station_graph_url, station_id, start_date, end_date, water_level_primary_sensor_id, discharge_level_primary_sensor_derived_id):
+    res = await asyncio.gather(get_station_details(
+        station_detail_url, station_id), get_station_details_graph(
+        station_graph_url, station_id, start_date, end_date, water_level_primary_sensor_id, discharge_level_primary_sensor_derived_id))
+
+    return res
+
 if __name__ == '__main__':
     # Search terms
     station_id = "08MH001"
@@ -118,13 +125,8 @@ if __name__ == '__main__':
     station_detail_url = f"{water_office_url}/report/real_time_e.html"
     station_graph_url = f"{water_office_url}/services/real_time_graph/json/inline"
 
-    # Retrieve the latest water level & historical graph data
-    station_detail_request = get_station_details(
-        station_detail_url, station_id)
-
-    # Retrieve water level historical graph data
-    station_graph_request = get_station_details_graph(
-        station_graph_url, station_id, start_date, end_date, water_level_primary_sensor_id, discharge_level_primary_sensor_derived_id)
+    station_detail_request, station_graph_request = asyncio.run(main(
+        station_detail_url, station_graph_url, station_id, start_date, end_date, water_level_primary_sensor_id, discharge_level_primary_sensor_derived_id))
 
     station_full_details = station_detail_request + station_graph_request
 
